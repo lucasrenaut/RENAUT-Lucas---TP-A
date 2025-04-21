@@ -1,4 +1,4 @@
-##DESCRIPTION : 
+###DESCRIPTION : 
 ce programme permet de vous entrainer sur des jeux de mathématiques (niveau CM1 difficile) incluant divers jeux comme des additions , multiplications , divisions , et d'autres . il y a un système de points fonctionel qui se **sauvegarde** entre vos sessions si vous mettez le même nom d'utilisateur
 
 ##PRéreuqis :
