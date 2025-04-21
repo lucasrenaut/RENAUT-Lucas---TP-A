@@ -1,4 +1,5 @@
 DESCRIPTION : 
+
 ce programme permet de vous entrainer sur des jeux de mathématiques (**niveau CM1 difficile**) incluant divers jeux comme des additions , multiplications , divisions , et d'autres . il y a un système de points fonctionel qui se **sauvegarde** entre vos sessions si vous mettez le même nom d'utilisateur
 
 PRéreuqis :
@@ -26,4 +27,5 @@ INSTALATION :
 aucune instalation a réaliser car vous pouvez utilisé [onlineGDB](https://www.onlinegdb.com). Mais vous pouvez installer pour exécuter le programme localement comme codeblocks [http://www.codeblocks.org/downloads](http://www.codeblocks.org/downloads)
 
 RENAUT Lucas 
+
 21/04/25
